@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <h1>São Paulo</h1>
+      <h1>Reminaia</h1>
     </>
   );
 }
