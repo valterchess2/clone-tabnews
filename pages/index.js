@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <h1>Reminaia</h1>
+      <h1 style={{justifySelf: "center"}}>Pela Missão</h1>
     </>
   );
 }
